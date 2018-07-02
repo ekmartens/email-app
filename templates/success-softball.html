@@ -1,0 +1,71 @@
+{%extends "layout.html"%}
+{%block content%}
+<div class="container">
+  <main id="success" align="center">
+    <h2>Success!</h2>
+
+    <div class="button-row">
+
+      <div>
+        <form action="{{url_for('softball_view1')}}" method="POST">
+          <button class="download_button">Email 1: Pre Event Promo</button>
+        </form>
+        <a href="{{ url_for('softball_preview1') }}" target="_blank">Preview Email 1</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('softball_view2')}}" method="POST">
+          <button class="download_button">Email 2: Get Recruited</button>
+        </form>
+        <a href="{{ url_for('softball_preview2') }}" target="_blank">Preview Email 2</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('softball_view3')}}" method="POST">
+          <button class="download_button">Email 3: 48 Hour Timer</button>
+        </form>
+        <a href="{{ url_for('softball_preview3') }}" target="_blank">Preview Email 3</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('softball_view4')}}" method="POST">
+          <button class="download_button">Email 4: 24 Hour Timer</button>
+        </form>
+        <a href="{{ url_for('softball_preview4') }}" target="_blank">Preview Email 4</a>
+      </div>
+  </div>
+
+  <div class="button-row">
+
+    <div>
+      <form action="{{url_for('softball_view5a')}}" method="POST">
+        <button class="download_button">Email 5a: Visit Our Booth</button>
+      </form>
+      <a href="{{ url_for('softball_preview5a') }}" target="_blank">Preview Email 5a</a>
+    </div>
+
+    <div>
+      <form action="{{url_for('softball_view5')}}" method="POST">
+        <button class="download_button">Email 5: Day of Event</button>
+      </form>
+      <a href="{{ url_for('softball_preview5') }}" target="_blank">Preview Email 5</a>
+    </div>
+
+    <div>
+      <form action="{{url_for('softball_view6')}}" method="POST">
+        <button class="download_button">Email 6: How Did You Play?</button>
+      </form>
+      <a href="{{ url_for('softball_preview6') }}" target="_blank">Preview Email 6</a>
+    </div>
+
+    <div>
+      <form action="{{url_for('softball_view7')}}" method="POST">
+        <button class="download_button">Email 7: Highlights Are In</button>
+      </form>
+      <a href="{{ url_for('softball_preview7') }}" target="_blank">Preview Email 7</a>
+    </div>
+</div>
+
+  </main>
+</div>
+{%endblock%}

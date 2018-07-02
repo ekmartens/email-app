@@ -1,0 +1,116 @@
+{%extends "layout.html"%}
+{%block content%}
+<div class="container">
+  <main id="success" align="center">
+    <h2>Success!</h2>
+
+    <div class="button-row">
+
+      <div>
+        <form action="{{url_for('view1a')}}" method="POST">
+          <button class="download_button">Email 1a: Early Bird</button>
+        </form>
+        <a href="{{ url_for('preview1a') }}" target="_blank">Preview Email 1a</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('view')}}" method="POST">
+          <button class="download_button">Email 1: Pre Event Promo</button>
+        </form>
+        <a href="{{ url_for('preview1') }}" target="_blank">Preview Email 1</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('view2')}}" method="POST">
+          <button class="download_button">Email 2: Check Out Our Events</button>
+        </form>
+        <a href="{{ url_for('preview2') }}" target="_blank">Preview Email 2</a>
+      </div>
+    </div>
+
+    <div class="button-row">
+
+      <div>
+        <form action="{{url_for('view3a')}}" method="POST">
+          <button class="download_button">Email 3a: Last Minute Sign Ups</button>
+        </form>
+        <a href="{{ url_for('preview3a') }}" target="_blank">Preview Email 3a</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('view3')}}" method="POST">
+          <button class="download_button">Email 3: 48 Hour Timer</button>
+        </form>
+        <a href="{{ url_for('preview3') }}" target="_blank">Preview Email 3</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('view4')}}" method="POST">
+          <button class="download_button">Email 4: 24 Hour Timer</button>
+        </form>
+        <a href="{{ url_for('preview4') }}" target="_blank">Preview Email 4</a>
+      </div>
+    </div>
+
+    <div class="button-row">
+
+      <div>
+        <form action="{{url_for('view5a')}}" method="POST">
+          <button class="download_button">Email 5a: Visit Our Booth</button>
+        </form>
+        <a href="{{ url_for('preview5a') }}" target="_blank">Preview Email 5a</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('view5')}}" method="POST">
+          <button class="download_button">Email 5: Day of Event</button>
+        </form>
+        <a href="{{ url_for('preview5') }}" target="_blank">Preview Email 5</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('view6')}}" method="POST">
+          <button class="download_button">Email 6: With Your Subscription</button>
+        </form>
+        <a href="{{ url_for('preview6') }}" target="_blank">Preview Email 6</a>
+      </div>
+    </div>
+
+    <div class="button-row">
+
+      <div>
+        <form action="{{url_for('view6a')}}" method="POST">
+          <button class="download_button">Email 6a: Create Profile</button>
+        </form>
+        <a href="{{ url_for('preview6a') }}" target="_blank">Preview Email 6a</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('view7')}}" method="POST">
+          <button class="download_button">Email 7: Text Only</button>
+        </form>
+        <a href="{{ url_for('preview7') }}" target="_blank">Preview Email 7</a>
+      </div>
+
+      <div>
+        <form action="{{url_for('view8')}}" method="POST">
+          <button class="download_button">Email 8: Highlights Are In</button>
+        </form>
+        <a href="{{ url_for('preview8') }}" target="_blank">Preview Email 8</a>
+      </div>
+    </div>
+
+    <div class="button-row">
+
+      <div>
+        <form action="{{url_for('view6b')}}" method="POST">
+          <button class="download_button">Email 6b: How Did You Play?</button>
+        </form>
+        <a href="{{ url_for('preview6b') }}" target="_blank">Preview Email 6b</a>
+      </div>
+    </div>
+   </div>
+
+  </main>
+</div>
+{%endblock%}

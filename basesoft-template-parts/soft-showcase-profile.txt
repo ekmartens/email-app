@@ -1,0 +1,59 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock">
+    <tbody class="mcnCaptionBlockOuter">
+        <tr>
+            <td class="mcnCaptionBlockInner" valign="top" style="padding:9px;">
+
+
+<table border="0" cellpadding="0" cellspacing="0" class="mcnCaptionLeftContentOuter" width="100%">
+    <tbody><tr>
+        <td valign="top" class="mcnCaptionLeftContentInner" style="padding:0 9px ;">
+            <table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionLeftImageContentContainer" width="264">
+                <tbody><tr>
+                    <td class="mcnCaptionLeftImageContent" align="center" valign="top">
+
+
+                        <a href="https://nextpro.com/subscriptions.html#level" title="" class="" target="_blank">
+
+                        <img alt="" src="https://gallery.mailchimp.com/7d973963555bfe9adf1b01a82/images/78e87c21-2139-42cb-a9f1-378ffdc3b3ac.png" width="264" style="max-width:650px;" class="mcnImage">
+                        </a>
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class="mcnCaptionLeftTextContentContainer" align="left" border="0" cellpadding="0" cellspacing="0" width="264">
+                <tbody><tr>
+                    <td valign="top" class="mcnTextContent">
+                        <div style="text-align: center;"><br>
+<span style="color:#000000"><strong><span style="font-family:lato,helvetica neue,helvetica,arial,sans-serif"><span style="font-size:18px">Showcase Your Profile</span></span></strong></span><br>
+<br>
+<span style="font-size:16px"><span style="color:#000000"><span style="font-family:lato,helvetica neue,helvetica,arial,sans-serif">Create your profile to share with college coaches &amp; scouts!</span></span></span></div>
+
+<div style="text-align: center;">&nbsp;</div>
+
+<div class="mcnTextContent">
+<div style=" margin-bottom: 5%;">
+<table align="center" style="background: linear-gradient(to right, #3d65b0 , #50b0e3); border-radius:20px;">
+	<tbody>
+		<tr>
+			<td align="center" style="color:#FFFFFF; font-size:16px; font-weight:bold; letter-spacing:-.5px; padding-top:10px; padding-right:30px; padding-bottom:10px; padding-left:30px;" valign="middle"><a href="https://nextpro.com/subscriptions.html#level" style="color:#FFFFFF; text-decoration:none; font-family: Lato" target="_blank">Buy Now</a></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table>

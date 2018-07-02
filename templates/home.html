@@ -1,0 +1,65 @@
+  {%extends "layout.html"%}
+  {%block content%}
+  <div class="container">
+    <main id="home" align="center">
+      <form action="{{url_for('success')}}" method="POST">
+        <select name="sport_choice">
+          <option value="Lacrosse" name="lacrosse">Lacrosse</option>
+          <option value="Soccer" name="soccer">Soccer</option>
+          <option value="Softball" name="softball">Softball</option>
+          <option value="Baseball" name="baseball">Baseball</option>
+          <option value="Basketball" name="basketball">Basketball</option>
+          <option value="Field Hockey" name="field_hockey">Field Hockey</option>
+        </select>
+        <br><br>
+        <label>Event Logo URL:</label><br>
+        <input type="text" name="event_logo"><br>
+        <label>Event Location:</label><br>
+        <input type="text" name="event_location"><br>
+        <label>Event Date: </label><br>
+        <input type="text" name="day"><br>
+        <label>Event Name: </label><br>
+        <input type="text" name="event_name"><br>
+        <label>Pre Event Offer Code:</label><br>
+        <input type="text" name="pre_offer_code"><br>
+        <label>Pre Event Promo Expiration:</label><br>
+        <input type="text" name="pre_promo_expire"><br>
+        <label>Event Partner Logo URL:</label><br>
+        <input type="text" name="partner_logo"><br>
+
+        <label>Pre Event In-Coupon Timer (1a):</label><br>
+        <input type="date" value="2018-06-18" name="pre_coupon_picker" min="2018-06-17" max="2018-07-31"><br><br>
+
+        <label>Pre Event Timer:</label><br>
+        <input type="date" value="2018-06-19" name="pre_timer_picker" min="2018-06-19" max="2018-07-31"><br><br>
+
+
+        <label>Post Event Promo Code:</label><br>
+        <input type="text" name="post_promo"><br>
+        <label>Post Event Promo Code Expiration:</label><br>
+        <input type="text" name="post_promo_expire"><br>
+
+        <label>$50 Coupon Promo Code (6a):</label><br>
+        <input type="text" name="6a_promo"><br>
+
+        <label>In Coupon Timer (6):</label><br>
+        <input type="date" value="2018-06-18" name="coupon_timer_picker" min="2018-06-18" max="2018-07-31"><br><br>
+
+        <label>Post Event Timer (7):</label><br>
+        <input type="date" value="2018-06-18" name="post_timer_picker" min="2018-06-17" max="2018-07-31"><br><br>
+
+        <label>Estimated Delivery Date:</label><br>
+        <input type="text" name="eta_date"><br>
+        <label>Video URL:</label><br>
+        <input type="text" name="video"><br>
+        <label>Video Thumbnail Img:</label><br>
+        <input type="text" name="vid_thumb"><br>
+        <label>Video Title:</label><br>
+        <input type="text" name="vid_title"><br>
+
+        <button type="submit" name="create">Create</button>
+      </form>
+
+    </main>
+  </div>
+  {%endblock%}

@@ -1,0 +1,203 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top:9px;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%; min-width:100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+
+                        <td valign="top" class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;">
+
+                            <div style="text-align: center;"><span style="color:#000000"><span style="font-family:lato,helvetica neue,helvetica,arial,sans-serif"><span style="font-size:22px"><strong>Want unlimited access to watch and<br>
+download all of your games?</strong></span></span></span><br>
+<br>
+&nbsp;</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock">
+    <tbody class="mcnCaptionBlockOuter">
+        <tr>
+            <td class="mcnCaptionBlockInner" valign="top" style="padding:9px;">
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" class="mcnCaptionRightContentOuter" width="100%">
+    <tbody><tr>
+        <td valign="top" class="mcnCaptionRightContentInner" style="padding:0 9px ;">
+            <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionRightImageContentContainer" width="176">
+                <tbody><tr>
+                    <td class="mcnCaptionRightImageContent" align="center" valign="top">
+
+
+                        <a href="https://nextpro.com/subscriptions.html" title="" class="" target="_blank">
+
+
+                        <img alt="" src="https://gallery.mailchimp.com/7d973963555bfe9adf1b01a82/images/8100fcee-68e7-4b02-9f5b-bc5d4b4e011b.png" width="176" style="max-width:650px;" class="mcnImage">
+                        </a>
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class="mcnCaptionRightTextContentContainer" align="right" border="0" cellpadding="0" cellspacing="0" width="352">
+                <tbody><tr>
+                    <td valign="top" class="mcnTextContent">
+                        <span style="font-size:21px"><span style="font-family:lato,helvetica neue,helvetica,arial,sans-serif"><span style="line-height:1.25"><span style="color:#000000">With the NextPro you<br>
+score UNLIMITED&nbsp;<br>
+access to your games<br>
+all year long!</span></span></span></span><br>
+<br>
+&nbsp;
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCodeBlock">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner">
+                <div class="mcnTextContent">
+<div style="margin-bottom: 5%;">
+<table align="center" style="background: linear-gradient(to right, #3d65b0 , #50b0e3); border-radius:20px;">
+  <tbody><tr>
+    <td align="center" valign="middle" style="color:#FFFFFF; font-size:16px; font-weight:bold; letter-spacing:-.5px; padding-top:10px; padding-right:30px; padding-bottom:10px; padding-left:30px;">
+      <a href="https://nextpro.com/subscriptions.html" target="_blank" style="color:#FFFFFF; text-decoration:none; font-family: Lato">
+      Subscribe Now</a>
+    </td>
+  </tr>
+</tbody></table>
+</div>
+
+
+</div>
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width:100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top:9px;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%; min-width:100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+
+                        <td valign="top" class="mcnTextContent" style="padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18px;">
+
+                            <div style="text-align: center;"><br>
+<span style="font-size:20px"><strong><span style="color:#000000"><span style="font-family:lato,helvetica neue,helvetica,arial,sans-serif">Want&nbsp;to Get Recruited?&nbsp;<br>
+NextPro Highlight Reels are the #1 resource for youth athletes.</span></span></strong></span><br>
+&nbsp;</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock">
+    <tbody class="mcnImageCardBlockOuter">
+        <tr>
+            <td class="mcnImageCardBlockInner" valign="top" style="padding-top:9px; padding-right:18px; padding-bottom:9px; padding-left:18px;">
+
+<table border="0" cellpadding="0" cellspacing="0" class="mcnImageCardLeftContentOuter" width="100%">
+    <tbody><tr>
+        <td align="center" valign="top" class="mcnImageCardLeftContentInner" style="padding:0;">
+            <table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardLeftImageContentContainer" width="200">
+                <tbody><tr>
+                    <td class="mcnImageCardLeftImageContentE2E " align="right" valign="top" style="padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0;">
+
+
+                        <img alt="" src="https://gallery.mailchimp.com/7d973963555bfe9adf1b01a82/images/aa48c21b-ee91-4615-9402-d552d57f7df5.png" width="200" style="max-width:1316px;" class="mcnImage">
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class="mcnImageCardLeftTextContentContainer" align="left" border="0" cellpadding="0" cellspacing="0" width="346">
+                <tbody><tr>
+                    <td valign="top" class="mcnTextContent" style="padding-left: 18px;padding-top: 18px;padding-bottom: 18px;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: center;">
+                        <div style="text-align: left;"><span style="font-size:20px"><span style="font-family:lato,helvetica neue,helvetica,arial,sans-serif"><span style="color:#000000">Unlimited Viewing<br>
+Unlimited Downloads<br>
+Unlimited Highlight Reels<br>
+Shareable Player Profiles</span></span></span></div>
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCodeBlock">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner">
+                <div class="mcnTextContent">
+<div style="margin-bottom: 5%;">
+<table align="center" style="background: linear-gradient(to right, #3d65b0 , #50b0e3); border-radius:20px;">
+  <tbody><tr>
+    <td align="center" valign="middle" style="color:#FFFFFF; font-size:16px; font-weight:bold; letter-spacing:-.5px; padding-top:10px; padding-right:30px; padding-bottom:10px; padding-left:30px;">
+      <a href="https://nextpro.com/subscriptions.html" target="_blank" style="color:#FFFFFF; text-decoration:none; font-family: Lato">
+      Subscribe Now</a>
+    </td>
+  </tr>
+</tbody></table>
+</div>
+
+
+</div>
+            </td>
+        </tr>
+    </tbody>
+</table>

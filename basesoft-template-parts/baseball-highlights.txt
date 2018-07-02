@@ -1,0 +1,59 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock">
+    <tbody class="mcnImageCardBlockOuter">
+        <tr>
+            <td class="mcnImageCardBlockInner" valign="top" style="padding-top:9px; padding-right:18px; padding-bottom:9px; padding-left:18px;">
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" class="mcnImageCardRightContentOuter" width="100%">
+    <tbody><tr>
+        <td align="center" valign="top" class="mcnImageCardRightContentInner" style="padding:0;">
+            <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardRightImageContentContainer" width="282">
+                <tbody><tr>
+                    <td class="mcnImageCardRightImageContentE2E " align="left" valign="top" style="padding-top:0px; padding-right:0; padding-bottom:0px; padding-left:0px;">
+
+
+                        <a href="https://nextpro.com/subscriptions.html#level" title="" class="" target="_blank">
+
+
+                        <img alt="" src="https://gallery.mailchimp.com/7d973963555bfe9adf1b01a82/images/1b4f1a7f-2575-4fa2-b481-cee97d872d39.png" width="282" style="max-width:1316px;" class="mcnImage">
+                        </a>
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+            <table class="mcnImageCardRightTextContentContainer" align="right" border="0" cellpadding="0" cellspacing="0" width="264">
+                <tbody><tr>
+                    <td valign="top" class="mcnTextContent" style="padding-right: 18px;padding-top: 18px;padding-bottom: 18px;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: center;">
+                        <p style="text-align: center;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;"><br>
+<span style="font-family:lato,helvetica neue,helvetica,arial,sans-serif"><span style="font-size:18px"><strong><span style="color:#000000">Unlimited Highlight Reels</span></strong></span></span><br>
+&nbsp;</p>
+
+<p style="text-align: center;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;"><span style="color:#000000"><span style="font-size:16px">Any time of year, as many as you need. You pick the clips, and we'll create your highlight reels.</span></span><br>
+&nbsp;</p>
+
+<div class="mcnTextContent" style="color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: center;">
+<div style=" margin-bottom: 5%;">
+<table align="center" style="background: linear-gradient(to right, #3d65b0 , #50b0e3); border-radius:20px;">
+	<tbody>
+		<tr>
+			<td align="center" style="color:#FFFFFF; font-size:16px; font-weight:bold; letter-spacing:-.5px; padding-top:10px; padding-right:30px; padding-bottom:10px; padding-left:30px;" valign="middle"><a href="https://nextpro.com/subscriptions.html#level" style="color:#FFFFFF; text-decoration:none; font-family: Lato" target="_blank">Subscribe Now</a></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+
+            </td>
+        </tr>
+    </tbody>
+</table>
